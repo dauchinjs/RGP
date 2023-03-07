@@ -12,6 +12,9 @@ This project allows you to insert the necessary information for a land owner and
 
 ## Demonstration
 
+### Home page (person list)
+![home page](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/home-page.png)
+
 ## Technologies
 
 * PHP version: 8.0
