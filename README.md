@@ -24,6 +24,6 @@ This project allows to register a person or company in land registry. Each perso
 2. Install all dependencies: `composer install` and `npm install`
 3. Create a database and rename the `.env.example` file to `.env` and add your credentials
 4. Run laravel database migrations using `php artisan migrate`
-5. To get 10 autofilled objects for each database you can use laravel database seeder `php artisan db:seed`
+5. To get 10 autofilled objects for each database you can use laravel database seeder `php artisan db:seed` <br>
 5.1 Keep in mind that this won't put all the necessary information for each object
 6. To run the project use `npm run dev` and open up a second terminal and use `php artisan serve` to run a development server
