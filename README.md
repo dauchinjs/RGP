@@ -7,7 +7,8 @@
 * [Setup](#setup)
 
 ## General info
-This project allows to register a person or company in land registry. Each person can contain land ownership with at least one plot of land. A person or company has name and surname or title, personal code (for person code format is [6digits - 5digits], company - 11 digits), type (physical or legal). For land ownership each has a title, cadastre number and status, but for plot of land - cadastre number, total area in hectares, date of survey and land usage. This project allows you to insert the necessary information for a land owner and then see all the details added. See all the mentioned objects in an overview where you can filter it by persons without properties, properties without plots of land, plots of land without land uses.
+This project allows to register a person or company in land registry. Each person can contain land ownership with at least one plot of land. A person or company has name and surname or title, personal code (for person code format is [6digits - 5digits], company - 11 digits), type (physical or legal). For land ownership each has a title, cadastre number and status, but for plot of land - cadastre number, total area in hectares, date of survey and land usage. <br>
+This project allows you to insert the necessary information for a land owner and then see all the details added. See all the mentioned objects in an overview where you can filter it by persons without properties, properties without plots of land, plots of land without land uses.
 
 ## Demonstration
 
