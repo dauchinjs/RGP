@@ -15,6 +15,27 @@ This project allows you to insert the necessary information for a land owner and
 ### Home page (person list)
 ![home page](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/home-page.png)
 
+### View person and what he owns
+![single view](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/single-view.gif)
+
+### Add a new person (physical)
+![add person](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/add-person.gif)
+
+### Add a new land property
+![add land](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/add-land.gif)
+
+### Add a new plot of land
+![add plot](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/add-plot.gif)
+
+### Edit land property and plot of land
+![edit lands](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/edit-lands.gif)
+
+### Overview with filtering option
+![overview](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/overview.gif)
+
+### It is not possible to edit non existent objects
+![cant-edit-last-obj](https://github.com/dauchinjs/RGP/blob/main/rgp-demonst/cant-edit-last-obj.gif)
+
 ## Technologies
 
 * PHP version: 8.0
